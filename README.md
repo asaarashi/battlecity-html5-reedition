@@ -8,3 +8,8 @@ Developed in 2011.
 propulsion.js is a tiny HTML5 game framework, and it is no longer maintained.
 
 Preview: http://www.huiyn.com/ding/battlecity-html5-reedition/
+
+Key settings:
+W,S,A,D move
+H/J fire
+Enter Start
