@@ -1,5 +1,5 @@
 # battlecity-html5-reedition
-FC game Battlecity（坦克大战） HTML5 Canvas Redition
+FC game Battlecity（坦克大战） HTML5 Canvas Reedition
 
 99.9% remake FC game Battlecity...
 
