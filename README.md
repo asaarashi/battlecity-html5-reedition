@@ -1,7 +1,7 @@
 # Battlcecity HTML5 Reedition
 FC game Battlecity（坦克大战） HTML5 Canvas Reedition
 
-99.9% accurate remake.
+99.9% accurately remake.
 
 Developed in 2011.
 
