@@ -1,11 +1,11 @@
 # Battlcecity HTML5 Reedition
 FC game Battlecity（坦克大战） HTML5 Canvas Reedition
 
-99.9% accurately remake.
+99.9% accurate remake.
 
 Developed in 2011.
 
-propulsion.js is a tiny HTML5 game framework, but it is no longer maintained.
+propulsion.js is a tiny HTML5 game framework, howerer, it is no longer maintained.
 
 Preview: http://www.huiyn.com/ding/battlecity-html5-reedition/
 
