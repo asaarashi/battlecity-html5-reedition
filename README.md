@@ -7,7 +7,7 @@ Developed in 2011.
 
 propulsion.js is a tiny HTML5 game framework, howerer, it is no longer maintained.
 
-Preview: http://www.huiyn.com/ding/battlecity-html5-reedition/
+Preview: https://www.oathbinder.com/battlecity-html5-reedition/
 
 Key settings:
 
