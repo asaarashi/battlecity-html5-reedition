@@ -5,7 +5,7 @@ FC game Battlecity（坦克大战） HTML5 Canvas Reedition
 
 propulsion.js is a tiny HTML5 game framework, howerer, it is no longer maintained.
 
-Preview: https://www.asaarashi.click/battlecity-html5-reedition/
+Preview: https://www.asaarashi.click/battlecity-html5-reedition/index.html
 
 Key settings:
 
